@@ -28,6 +28,12 @@ public class Conditionals {
             return "odd";
         }
     }
+
+    /**
+     * oddOrEven2 should utilize short hand conditional notation
+     * @param number
+     * @return
+     */
     static public String oddOrEven2(int number){
         return number % 2 == 0 ? "even" : "odd";
     }
