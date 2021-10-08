@@ -1,4 +1,4 @@
-package lesson1.helloWorldLibrary;
+package lesson2;
 
 public class Fundamentals {
 
