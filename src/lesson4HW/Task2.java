@@ -335,6 +335,7 @@ public class Task2 {
         //didn't fix this result return part
         result = thousands + hundreds + tens + ones;
 
+
         return result;
     }
 }
