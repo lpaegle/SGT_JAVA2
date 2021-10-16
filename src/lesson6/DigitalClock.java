@@ -11,8 +11,8 @@ public class DigitalClock {
 
 
 
-
     public DigitalClock() {
+        this.timeClock = new TimeClock();
     }
 
     public DigitalClock(TimeClock timeClock, Calendar calendar, StopWatch stopWatch) {
