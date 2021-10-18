@@ -2,7 +2,6 @@ package lesson8.task6;
 
 public class Rectangle extends Shape{
 
-
     public Rectangle() {
     }
 
@@ -11,7 +10,6 @@ public class Rectangle extends Shape{
     }
 
 }
-
 
 class Square extends Rectangle{
     public void message(){
