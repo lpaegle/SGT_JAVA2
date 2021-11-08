@@ -17,7 +17,7 @@ public class OrderProduct {
     @Column(nullable = false) private Integer quantity;
 
     public OrderProduct() {
-        super();
+
     }
 
     public OrderProduct(Order order, Product product, Integer quantity) {
